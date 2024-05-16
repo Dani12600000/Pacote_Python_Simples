@@ -1,1 +1,0 @@
-from DanielPereira.DanielPereira import *
