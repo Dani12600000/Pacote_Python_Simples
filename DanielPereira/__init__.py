@@ -1,2 +1,1 @@
-from .DanielPereira import *
-
+from DanielPereira.codigo import *
