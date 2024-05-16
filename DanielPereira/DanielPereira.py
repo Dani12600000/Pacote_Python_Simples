@@ -1,5 +1,3 @@
-# DanielPereira.py
-
 def saudacao(nome):
     """Função que retorna uma saudação personalizada."""
     return f"Olá, {nome}! Bem-vindo ao módulo DanielPereira."
