@@ -1,9 +1,10 @@
-from distutils.core import setup
-setup(name='DanielPereira',
-      version='1.1',
-      description='Modulo para fazer somas e comprimentar',
-      author='Daniel',
-      author_email='dp709020@gmail.com',
-      url='https://github.com/Dani12600000/Pacote_Python_Simples',
-      py_modules=['DanielPereira'],
-     )
+import os
+
+from setuptools import setup, find_packages
+setup(
+    name="DanielPereira",
+    version="1.2",
+    description="Um codigo incrivel, FUNCIONAL, feito pelo grandioso Daniel Pereira 😎",
+    packages=find_packages(),
+    include_package_data=True
+)
