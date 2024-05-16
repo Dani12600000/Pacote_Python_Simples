@@ -1,6 +1,6 @@
 from distutils.core import setup
 setup(name='DanielPereira',
-      version='1.0',
+      version='1.1',
       description='Modulo para fazer somas e comprimentar',
       author='Daniel',
       author_email='dp709020@gmail.com',
