@@ -1,1 +1,1 @@
-from DanielPereira import *
+from DanielPereira.DanielPereira import *
